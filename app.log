@@ -9,3 +9,98 @@
 {"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T12:19:33.383Z","url":"/"}
 {"level":"info","message":"Response sent","method":"GET","statusCode":304,"timestamp":"2024-07-26T12:19:33.387Z","url":"/"}
 {"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T13:17:49.042Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T13:17:49.046Z","url":"/"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T13:46:34.391Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T13:46:34.395Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T13:46:34.418Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T13:46:34.419Z"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T13:46:34.423Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T13:46:34.423Z"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:31:52.906Z","url":"/dkfjglkdfh"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T14:33:14.341Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-26T14:33:14.346Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T14:33:14.368Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T14:33:14.368Z"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T14:33:14.373Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T14:33:14.373Z"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T14:44:48.552Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T14:45:10.778Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":5},"result":10,"timestamp":"2024-07-26T14:45:10.778Z"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:25:27.509Z","url":"/dkfjglkdfh"}
+{"level":"error","message":"404 Not Found","method":"GET","timestamp":"2024-07-26T15:25:27.510Z","url":"/dkfjglkdfh"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:35:01.135Z","url":"/dkfjglkdfh"}
+{"level":"error","message":"404 Not Found","method":"GET","timestamp":"2024-07-26T15:35:01.135Z","url":"/dkfjglkdfh"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:35:01.921Z","url":"/dkfjglkdfh"}
+{"level":"error","message":"404 Not Found","method":"GET","timestamp":"2024-07-26T15:35:01.921Z","url":"/dkfjglkdfh"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:35:29.113Z","url":"/"}
+"timestamp":"2024-07-26T15:35:55.403Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:42:45.189Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":6.1482,"timestamp":"2024-07-26T15:42:45.195Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:42:45.216Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T15:42:45.216Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":0.9724,"timestamp":"2024-07-26T15:42:45.217Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:42:45.221Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T15:42:45.221Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.7367,"timestamp":"2024-07-26T15:42:45.222Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:45:02.635Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":5.4302,"timestamp":"2024-07-26T15:45:02.640Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:45:02.657Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T15:45:02.658Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":0.9815,"timestamp":"2024-07-26T15:45:02.658Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:45:02.662Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T15:45:02.662Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.6717,"timestamp":"2024-07-26T15:45:02.663Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T15:53:19.403Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":22.3621,"timestamp":"2024-07-26T15:53:19.425Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:53:19.448Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T15:53:19.449Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":1.5234,"timestamp":"2024-07-26T15:53:19.450Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T15:53:19.455Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T15:53:19.455Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.7785,"timestamp":"2024-07-26T15:53:19.455Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T16:09:24.386Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":4.8801,"timestamp":"2024-07-26T16:09:24.391Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:09:24.409Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T16:09:24.409Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":0.9825,"timestamp":"2024-07-26T16:09:24.410Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T16:09:24.414Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T16:09:24.414Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.6923,"timestamp":"2024-07-26T16:09:24.415Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:32:18.362Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":5.0164,"timestamp":"2024-07-26T17:32:18.367Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:18.384Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T17:32:18.384Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":0.9902,"timestamp":"2024-07-26T17:32:18.385Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:18.389Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T17:32:18.389Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.7208,"timestamp":"2024-07-26T17:32:18.390Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:32:22.489Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":5.4887,"timestamp":"2024-07-26T17:32:22.495Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:22.513Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T17:32:22.513Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":1.0167,"timestamp":"2024-07-26T17:32:22.514Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:22.518Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T17:32:22.518Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.7025,"timestamp":"2024-07-26T17:32:22.518Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:32:33.932Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":4.8079,"timestamp":"2024-07-26T17:32:33.937Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:33.955Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T17:32:33.956Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":1.324,"timestamp":"2024-07-26T17:32:33.957Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:32:33.960Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T17:32:33.961Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.8651,"timestamp":"2024-07-26T17:32:33.961Z","url":"/add"}
+{"test":"test"}{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T17:52:16.181Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":200,"timeTaken":18.7681,"timestamp":"2024-07-26T17:52:16.200Z","url":"/"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:52:16.224Z","url":"/add"}
+{"level":"info","message":"Addition operation","operands":{"a":5,"b":10},"result":15,"timestamp":"2024-07-26T17:52:16.224Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":200,"timeTaken":1.0232,"timestamp":"2024-07-26T17:52:16.225Z","url":"/add"}
+{"level":"info","message":"HTTP Request","method":"POST","timestamp":"2024-07-26T17:52:16.229Z","url":"/add"}
+{"level":"error","message":"Invalid operands","operands":{"a":"five","b":10},"timestamp":"2024-07-26T17:52:16.229Z"}
+{"level":"info","message":"Response sent","method":"POST","statusCode":400,"timeTaken":0.9205,"timestamp":"2024-07-26T17:52:16.230Z","url":"/add"}
