@@ -1,2 +1,3 @@
-"# mini-application"
+# mini-application
+
 npm install
