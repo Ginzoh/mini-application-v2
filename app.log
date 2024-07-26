@@ -5,3 +5,6 @@
 {"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-23T15:05:32.140Z","url":"/"}
 {"level":"info","message":"Response sent","method":"GET","statusCode":200,"timestamp":"2024-07-23T15:05:32.144Z","url":"/"}
 {"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-23T15:05:32.287Z","url":"/favicon.ico"}
+{"level":"info","message":"Server running at http://localhost:3000"}
+{"level":"info","message":"HTTP Request","method":"GET","timestamp":"2024-07-26T12:19:33.383Z","url":"/"}
+{"level":"info","message":"Response sent","method":"GET","statusCode":304,"timestamp":"2024-07-26T12:19:33.387Z","url":"/"}
