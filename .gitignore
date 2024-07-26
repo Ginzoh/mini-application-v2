@@ -1,2 +1,3 @@
 node_modules
 logstash-8.14.3
+sincedb/sincedb_file
